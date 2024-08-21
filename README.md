@@ -1,1 +1,1 @@
-# Furniture-app
+# fuzzy_app
